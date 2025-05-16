@@ -34,14 +34,11 @@
         <version>3.2.2</version>
         <configuration>
           <archive><manifest>
-            <mainClass>com.mavenproject10.project10.App</maninClass>
+            <mainClass>com.program10.App</maninClass>
             </manifest>
           </archive>
         </configuration>
       </plugin>
     </plugins>
   </plugin>
-      
-  
-  
 </project>
