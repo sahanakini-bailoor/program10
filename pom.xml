@@ -34,7 +34,7 @@
         <version>3.2.2</version>
         <configuration>
           <archive><manifest>
-            <mainClass>com.program10.App</maninClass>
+            <mainClass>com.program10.App</mainClass>
             </manifest>
           </archive>
         </configuration>
